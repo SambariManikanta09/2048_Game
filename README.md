@@ -1,15 +1,26 @@
-# This is Game is created using the Create React App
+# 2048 Game 
 
-## Inspired by:
+![alt text](https://raw.githubusercontent.com/SambariManikanta09/2048_Game/main/src/assets/img/og.png)
 
-[https://www.romaincousin.fr/2048/](Original Game)
+
+Play the famous 2048 game with colored animated tiles!
+
+This is Game is created using the Create React App
+
+## Inspiration
+
 Motion graphics created by Romain Cousin.
+[Original Game](https://www.romaincousin.fr/2048/)
+
 
 I have followed the amazing youtube walkthrough in developing this game 
- [https://youtu.be/ca0BEH2bBLs](Link)
+[Link](https://youtu.be/ca0BEH2bBLs).
 
+## Logic
 
+Refer to the help/logic.js to study how the game logic works
 
+Feel free to tweak and Enjoy Learning.
 
 ## Available Scripts
 
