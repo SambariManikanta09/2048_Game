@@ -2,11 +2,11 @@
 
 ## Inspired by:
 
-Game[https://www.romaincousin.fr/2048/]
+[https://www.romaincousin.fr/2048/](Original Game)
 Motion graphics created by Romain Cousin.
 
 I have followed the amazing youtube walkthrough in developing this game 
-Link[https://youtu.be/ca0BEH2bBLs]
+ [https://youtu.be/ca0BEH2bBLs](Link)
 
 
 
