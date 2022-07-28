@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Tile from "./Tile";
 import Cell from "./Cell";
-import { Board } from "../helper";
+import { Board } from "../helper/logic";
 import useEvent from "../hooks/useEvent";
 import GameOverlay from "./GameOverlay";
 import LOGO from "../assets/img/ezgif.com-gif-maker.gif";
