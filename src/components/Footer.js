@@ -3,6 +3,10 @@ import React from "react";
 const Footer = () => (
   <div style={{ marginTop: "1rem", padding: "1rem", bottom: 0, left: 0 }}>
     <p>
+      Developed by{" "}
+      <a href="https://www.linkedin.com/in/sambarimanikanta/">Manikanta</a>
+      .
+      <br />
       Motion graphics created by{" "}
       <a href="https://www.romaincousin.fr">
         <br />
